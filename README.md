@@ -1,2 +1,2 @@
 # git-exercise
-Changed file.
+this file is now changed.
